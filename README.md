@@ -1,0 +1,1 @@
+This repository contains the queries I wrote and sometimes explanation of sql concepts used on the particular day as a part of 100 Days of SQL. It is to enhance MySQL skills through daily practice of questions in HackerRank.
