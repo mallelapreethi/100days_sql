@@ -1,2 +1,1 @@
-100 Days SQL
 This repository contains the queries I wrote and sometimes explanation of sql concepts used on the particular day as a part of 100 Days of SQL. It is to enhance MySQL skills through daily practice of questions in HackerRank. Each folder contains query pdf(which i wrote in hackerrank website), Problem Statement pdf, database file of my own implementation(sample table creation, insertion of records and query).
